@@ -3,7 +3,7 @@
 
 # TimeTable
 <h1 align=center>
-<img src="app/src/logo-files/logo.png" width=50%>
+<img src="logo-files/logo.png" width=50%>
 </h1>
 
 
